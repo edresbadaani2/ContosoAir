@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/yemenfx/Agile-ContosoAir/_apis/build/status/edresbadaani2.ContosoAir?branchName=master)](https://dev.azure.com/yemenfx/Agile-ContosoAir/_build/latest?definitionId=2&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
